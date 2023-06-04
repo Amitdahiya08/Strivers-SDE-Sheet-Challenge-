@@ -1,4 +1,6 @@
 # Strivers-SDE-Sheet-Challenge-
+![takeyouforward-logo](https://github.com/Amitdahiya08/Strivers-SDE-Sheet-Challenge-/assets/113803002/ec7f51a3-e729-453b-8338-c1e2d0854134)
+
  #StriversSheetChallenge  for 60 days.
  
  It is a 60 days SDE Sheet Challenge which covers all concepts of Data Structutes and Algorithm as well as Computer Fundamentals.
